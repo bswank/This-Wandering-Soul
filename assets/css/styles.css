@@ -32,6 +32,14 @@ a {
 	color: inherit;
 }
 
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
 /* -------------------------
 	 Helpers/Utilities
 	 ------------------------- */
